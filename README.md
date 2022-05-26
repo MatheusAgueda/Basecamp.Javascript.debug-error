@@ -1,0 +1,1 @@
+# Basecamp.Javascript.debug-error
